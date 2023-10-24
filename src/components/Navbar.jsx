@@ -3,7 +3,9 @@ import { Link } from "react-router-dom";
 import { logo } from "../utils/constants";
 import Searchbar from "./Searchbar";
 
+
 const Navbar = () => {
+  
   return (
     <Stack
       direction="row"
